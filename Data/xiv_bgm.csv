@@ -720,8 +720,8 @@ ID;Name;Locations;Color by Expansion/Collab
 718;Starlight, De Chocobo;Old Gridania;
 719;The Garden's Gates;il mheg;
 720;Safety in Numbers;The Firmament;
-721;Valentione?;Old Gridania;
-722;Locus - Remix (First Phase);Ultimate Alex;
+721;The Beehive Themes;Eulmore;
+722;Give it your all;PVP;Originally place ID for Locus Remix
 723;Metal - Brutal Justice Remix (2nd Phase);Ultimate Alex;
 724;TimeStop;Ultimate Alex;
 725;Rise - Remix (Third Phase);Ultimate Alex;
@@ -780,12 +780,12 @@ ID;Name;Locations;Color by Expansion/Collab
 778;To The Edge (Mount);;
 779;N/A;;
 780;Broken Heart;;
-781;NieR: Automata - Rays of Light (instrumental);;
-782;NieR: Automata - Amusement Park;;
-783;NieR: Automata - Fortress of Lies;;
-784;NieR: Automata - Grandma (Destruction);;
-785;The Puppet's Bunker - End of the Unknown;;
-786;The Puppet's Bunker - Torn from the Heavens/The Dark Colossus Destroys All (Medley);;
+781;Rays of Light (instrumental);NieR: Automata;
+782;Amusement Park;NieR: Automata;
+783;Fortress of Lies;NieR: Automata;
+784;Grandma (Destruction);NieR: Automata;
+785;End of the Unknown;The Puppet's Bunker;
+786;Torn from the Heavens/The Dark Colossus Destroys All (Medley);The Puppet's Bunker;
 787;N/A;;
 788;Bosja;;
 789;Heavensword;City of Giants (Solo Instance);
